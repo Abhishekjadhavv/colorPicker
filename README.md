@@ -8,7 +8,7 @@ Technology used
 
 - HTML
 - CSS
-- JAVASCRIP
+- JAVASCRIPT
 
 [project Link](https://abhijs27.netlify.app)
 
